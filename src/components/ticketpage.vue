@@ -15,7 +15,7 @@
 </template>
 
 <script setup>
-import TicketForm from "./TicketForm.vue";
+import TicketForm from "./ticketform.vue";
 
 // Props
 defineProps({
