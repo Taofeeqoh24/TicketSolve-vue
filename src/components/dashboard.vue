@@ -83,7 +83,7 @@ import { ref, computed } from "vue";
 import { useRouter } from "vue-router";
 import { useToast } from "vue-toastification";
 import TicketPage from "./TicketPage.vue";
-import MyTickets from "./MyTickets.vue";
+import MyTickets from "./mytickets.vue";
 
 const router = useRouter();
 const toast = useToast();

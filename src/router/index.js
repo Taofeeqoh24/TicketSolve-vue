@@ -5,7 +5,7 @@ import register from '../auth/register.vue';
 import login from '../auth/login.vue';
 import { authGuard } from '../router/authGuard.js';
 import dashboard from '../components/dashboard.vue';
-import Mytickets from '../components/MyTickets.vue';
+import Mytickets from '../components/mytickets.vue';
 
 
 const routes = [
